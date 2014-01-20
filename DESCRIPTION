@@ -1,0 +1,10 @@
+Package: qlikview_test
+Type: Package
+Title: OpenCPU Qlikview Demo App
+Version: 0.1
+Date: 2014-01-20
+Author: Lalithakishore n
+Maintainer: lalith <lalithkishore@gmail.com
+Description: This package is an example of an OpenCPU and Qlikview integration App. 
+License: Apache2
+LazyData: true
