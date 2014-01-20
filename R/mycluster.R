@@ -9,4 +9,5 @@ function (X, AccountCount, AvgOrderSize, CustomerCnt, Row, clusterGroup)
   cleanData <- merge(x = data, y = cleanData, by = "Row", all.x = TRUE)
   cleanData <- subset(cleanData, select = -c(Row))
   return(cleanData)
+  
 }
